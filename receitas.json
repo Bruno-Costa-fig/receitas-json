@@ -1,0 +1,151 @@
+{
+  "receitas" : [
+    {
+      "nome": "Bolo de Chocolate",
+      "ingredientes": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de açúcar",
+        "1/2 xícara de cacau em pó",
+        "1 colher de sopa de fermento em pó",
+        "1 colher de chá de sal",
+        "1 xícara de leite",
+        "1/2 xícara de óleo vegetal",
+        "2 ovos",
+        "1 colher de chá de extrato de baunilha",
+        "1 xícara de água fervente"
+      ],
+      "instrucoes": [
+        "Preaqueça o forno a 180°C.",
+        "Em uma tigela grande, misture a farinha, o açúcar, o cacau em pó, o fermento e o sal.",
+        "Adicione o leite, o óleo vegetal, os ovos e a baunilha à mistura seca e bata até obter uma massa homogênea.",
+        "Adicione a água fervente e misture bem.",
+        "Despeje a massa em uma forma untada e asse por cerca de 30-35 minutos, ou até que um palito inserido no centro do bolo saia limpo.",
+        "Deixe o bolo esfriar antes de desenformar.",
+        "Decore como desejar e sirva."
+      ],
+      "imagem": "https://static.itdg.com.br/images/1200-630/bd14ed0d98530fb34b6f60a295382a7a/348000-original.jpg"
+    },
+    {
+      "nome": "Salada Caesar",
+      "ingredientes": [
+        "2 corações de alface romana",
+        "1 xícara de croutons",
+        "1/2 xícara de queijo parmesão ralado",
+        "1/4 de xícara de molho Caesar",
+        "1 colher de chá de suco de limão",
+        "1 colher de chá de mostarda dijon",
+        "1 dente de alho picado",
+        "2 filés de frango grelhados, cortados em tiras"
+      ],
+      "instrucoes": [
+        "Lave e seque bem os corações de alface romana e rasgue as folhas em pedaços menores.",
+        "Em uma tigela grande, misture o molho Caesar, o suco de limão, a mostarda e o alho.",
+        "Adicione a alface rasgada à tigela e misture bem para cobrir as folhas com o molho.",
+        "Adicione os croutons e o queijo parmesão e misture novamente.",
+        "Divida a salada em pratos individuais e coloque as tiras de frango grelhado por cima.",
+        "Sirva imediatamente."
+      ],
+      "imagem": "https://marolacomcarambola.com.br/wp-content/uploads/2019/08/Receita-de-Salada-Caesar-Caesar-Salad-1.jpg"
+    },
+    {
+      "nome": "Pizza Margherita",
+      "ingredientes": [
+        "1 massa de pizza pré-cozida",
+        "1 xícara de molho de tomate",
+        "200g de queijo muçarela fatiado",
+        "Folhas de manjericão fresco",
+        "Azeite de oliva",
+        "Sal e pimenta a gosto"
+      ],
+      "instrucoes": [
+        "Pré-aqueça o forno de acordo com as instruções da massa de pizza.",
+        "Espalhe o molho de tomate uniformemente sobre a massa.",
+        "Coloque as fatias de queijo muçarela por cima do molho de tomate.",
+        "Tempere com sal e pimenta a gosto e regue com um fio de azeite de oliva.",
+        "Asse no forno conforme as instruções da massa de pizza, ou até que o queijo esteja derretido e a massa esteja dourada.",
+        "Retire do forno e coloque algumas folhas de manjericão fresco por cima.",
+        "Corte em fatias e sirva quente."
+      ],
+      "imagem": "https://anamariabraga.globo.com/wp-content/uploads/2020/08/pizza-margherita.jpg"
+    },
+    {
+      "nome": "Sopa de Legumes",
+      "ingredientes": [
+        "2 cenouras grandes, cortadas em rodelas",
+        "2 batatas médias, cortadas em cubos",
+        "1 cebola média, picada",
+        "2 dentes de alho, picados",
+        "1 abobrinha média, cortada em cubos",
+        "1 chuchu médio, cortado em cubos",
+        "1 tomate grande, picado",
+        "1/2 xícara de ervilhas",
+        "1/4 de xícara de macarrão de sua preferência",
+        "4 xícaras de caldo de legumes",
+        "1 colher de sopa de azeite de oliva",
+        "Sal e pimenta a gosto"
+      ],
+      "instrucoes": [
+        "Em uma panela grande, aqueça o azeite de oliva em fogo médio.",
+        "Adicione a cebola e o alho, e refogue até ficarem macios e levemente dourados.",
+        "Acrescente as cenouras, as batatas, a abobrinha, o chuchu, o tomate e as ervilhas na panela.",
+        "Tempere com sal e pimenta a gosto e mexa bem.",
+        "Despeje o caldo de legumes na panela e deixe ferver.",
+        "Reduza o fogo, tampe a panela e cozinhe por cerca de 20 minutos, ou até que os legumes estejam macios.",
+        "Adicione o macarrão na panela e cozinhe por mais 10 minutos, ou até que o macarrão esteja cozido.",
+        "Verifique o tempero e ajuste se necessário.",
+        "Sirva quente."
+      ],
+      "imagem": "https://www.receitop.com/wp-content/uploads/2021/08/Sopa-de-legumes-1200x675.jpg"
+    },
+    {
+      "nome": "Smoothie de Frutas",
+      "ingredientes": [
+        "1 banana madura",
+        "1 xícara de morangos frescos",
+        "1/2 xícara de abacaxi em cubos",
+        "1/2 xícara de leite de amêndoas",
+        "1 colher de sopa de mel",
+        "Gelo a gosto"
+      ],
+      "instrucoes": [
+        "Descasque a banana e corte-a em rodelas.",
+        "Lave bem os morangos e remova as folhas.",
+        "Em um liquidificador, coloque a banana, os morangos, o abacaxi, o leite de amêndoas e o mel.",
+        "Adicione gelo a gosto para deixar o smoothie mais refrescante.",
+        "Bata tudo no liquidificador até obter uma consistência cremosa e homogênea.",
+        "Se preferir, adicione mais leite de amêndoas ou mel para ajustar o sabor.",
+        "Despeje o smoothie em copos e sirva imediatamente."
+      ],
+      "imagem": "https://www.mundoboaforma.com.br/wp-content/uploads/2022/02/Smoothie-frutas-vermelhas.jpg"
+    },
+    {
+      "nome": "Panquecas de Blueberry",
+      "ingredientes": [
+        "1 xícara de farinha de trigo",
+        "2 colheres de sopa de açúcar",
+        "1 colher de chá de fermento em pó",
+        "1/2 colher de chá de bicarbonato de sódio",
+        "1/4 de colher de chá de sal",
+        "1 xícara de leite",
+        "1 ovo",
+        "2 colheres de sopa de manteiga derretida",
+        "1/2 colher de chá de extrato de baunilha",
+        "1 xícara de blueberries frescos",
+        "Manteiga para untar a frigideira"
+      ],
+      "instrucoes": [
+        "Em uma tigela grande, misture a farinha, o açúcar, o fermento, o bicarbonato de sódio e o sal.",
+        "Em outra tigela, bata o leite, o ovo, a manteiga derretida e a baunilha até obter uma mistura homogênea.",
+        "Despeje a mistura líquida na tigela com os ingredientes secos e mexa até obter uma massa lisa.",
+        "Adicione as blueberries à massa e misture delicadamente.",
+        "Aqueça uma frigideira antiaderente em fogo médio-baixo e unte com um pouco de manteiga.",
+        "Despeje aproximadamente 1/4 de xícara de massa na frigideira para formar cada panqueca.",
+        "Cozinhe por cerca de 2-3 minutos, ou até que bolhas comecem a se formar na superfície da panqueca.",
+        "Vire a panqueca com uma espátula e cozinhe por mais 2-3 minutos, ou até que esteja dourada e cozida por completo.",
+        "Repita o processo com o restante da massa.",
+        "Sirva as panquecas quentes com xarope de bordo ou o acompanhamento de sua preferência."
+      ],
+      "imagem": "https://i.pinimg.com/736x/80/a2/d7/80a2d7f35540344174821881cae33de3--blueberry-pancake-recipes-blueberry-pancakes.jpg"
+    }
+  ]
+}
